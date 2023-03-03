@@ -18,7 +18,7 @@
     }
   },
   "dockerComposeFile": "docker-compose.yml",
-  "name": "NestJS project template",
+  "name": "NestJS + TypeORM demo",
   "postCreateCommand": "./.devcontainer/postCreateCommand.sh",
   "service": "app",
   "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}"
